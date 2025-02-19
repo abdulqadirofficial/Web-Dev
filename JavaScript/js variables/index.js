@@ -19,3 +19,9 @@ console.log(qasim-rehman)  // ans > 10
 var ali = 3
 var sana = 4
 console.log(ali*sana)  // ans > 12
+
+
+
+let hamza = 45
+let ahmad = 35
+console.log(hamza / ahmad)  // ans > 1.2857142857142858
