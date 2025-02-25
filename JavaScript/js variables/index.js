@@ -25,3 +25,5 @@ console.log(ali*sana)  // ans > 12
 let hamza = 45
 let ahmad = 35
 console.log(hamza / ahmad)  // ans > 1.2857142857142858
+
+let 
